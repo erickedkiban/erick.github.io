@@ -49,8 +49,6 @@
     "versionPublish": "5.6.11",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@",
     "google-analytics": "<!-- Remove Mobirise Footer -->\n<script>\n    window.addEventListener('DOMContentLoaded', function () {\n    const sections = document.querySelectorAll('section')\n    sections[sections.length-1].remove()\n})\n</script>",
     "favicon": false,
     "mbrsiteDomain": "vfy5jj2mmy",
